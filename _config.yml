@@ -5,9 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#trying to see if I can change the colour settings
-minimal_mistakes_skin : "contrast"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Catriona McDonald"
