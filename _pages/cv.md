@@ -7,53 +7,53 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci in Astrophysics, Royal Holloway, University of London, 2019
+* Ph.D in Astrophysics, University of Warwick, 2023 (expected)
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 : Second Year Lab Development
+  * University of Warwick, UK
+  * Assisting with the creation of a new computational experiment for second year students. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-present: First Year Undergraduate Lab Demonstrator
+  * University of Warwick, UK
+  * Assisting eight students with physics experiments, lab book keeping and report writing skills.
+
+* 2016-2017: Tutor
+  * Explore Learning, Hounslow, UK
+  * Tutoring maths and English skills to primary school children.
+  
+Publications
+======
+* [Constraining the origin of the planetary debris surrounding ZTF J0139+5245 through rotational fission of a triaxial asteroid](https://academic.oup.com/mnras/article/492/4/5291/5721536)
+D. Veras, **C. H. McDonald**, V. Makarov, 2020, MNRAS, 492, 4, 5291-5296
+
+* [Constraining planet formation around 6–8 M⊙ stars](https://academic.oup.com/mnras/article/493/1/765/5721525)
+D. Veras, P-E. Tremblay, J.J. Hermes, **C. H. McDonald**, G. M. Kennedy, F. Meru, B. T. Gänsicke, 2020, MNRAS, 493, 1, 765-775
+
+* [Linking the formation and fate of exo-Kuiper belts within Solar system analogues](https://academic.oup.com/mnras/article/493/4/5062/5775314)
+D. Veras, K. Reichert, F. Flammini Dotti, M. X. Cai, A. J. Mustill, A. Shannon, **C. H. McDonald**, S. Portegies Zwart, M. B. N. Kouwenhoven, R. Spurzem, 2020, MNRAS, 493, 4, 5062-5078
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * Python
+  * Mathematica
+  * C++
+  * JavaScript
+  * HTML
+  * LabVIEW
+* Operating Systems
+  * Windows
+  * Linux
+* Other
+  * Excellent command of written and oral English 
+  * LaTeX
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
+
