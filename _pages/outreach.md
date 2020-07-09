@@ -9,6 +9,10 @@ author_profile: true
 ------
 As a volunteer I accompany the university's inflatable planetarium to local schools and present shows to groups of various aged children. 
 
+**Pint of Science Volunteer**, University of Warwick, Coventry, UK (2019-2020)
+-----
+Volunteered to help organise the content for Pint of Science 2020. Was involved with choosing the presentors and organising the programme. Festival was cancelled due to covid-19.
+
 **SEPnet Outreach Ambassador**, Royal Holloway, University of London, UK (2017-2019)
 ------
 As an outreach ambassador I assisted at outreach events such as public lectures and science fairs. This included discussing topics within Physics to members of the public of all ages, and running demonstrations to aid understanding of these topics. Communication with both academics and the public was vital alongside managing my own areas of an event to keep it running smoothly.
