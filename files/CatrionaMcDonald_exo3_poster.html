@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+	<title>Triaxial asteroids as reservoirs for planetary debris around white dwarfs</title>
+	
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  	<style type="text/css">
+  		/*Used for the carousel*/
+  		.carousel-inner img {
+   			width: 100%;
+    		height: 100%;
+  							}
+
+  		/*changes carousel arrow colours*/
+  		.carousel-control-next,
+		.carousel-control-prev {
+    		filter: invert(100%);
+								}
+
+		/*Creates a custom colour setting for title card*/
+		.custom-title-card {
+			background-color: rgba(70, 6, 70, 1);
+			opacity: 1;
+			border-color: rgba(42, 2, 42, 1);
+		}
+
+  		h3 {
+			margin-top:0px;
+  			}
+
+  		body {
+  			background-image: url("https://lh3.googleusercontent.com/rxrY5gDrdJsamaatXlJE3RX5_1FF_26u4YJ39BytPXMziX_E-KePkHv7mGd505zm1sNTH1z6JphhPNqcV7BTuJGWXzpHLoMF2JAIaL90sie2TuTuGBWMQoCffcBpTY-g0ncCRozE=w2400");
+  			background-repeat: no-repeat;
+  			background-size: cover;
+  			}
+  	</style>
+</head>
+
+<body>
+	<div class="container">
+	<!--Poster title header page -->
+		<div class="row justify-content-center mb-2 pt-2">
+			<div class="col-sm">
+				<div class="card text-white bg-dark">
+					<div class="card-body">
+						<div class="row justify-content-center">
+							<div class="col-sm-2 d-flex align-items-center">
+								<img src="https://lh3.googleusercontent.com/xle_H-VkC6U2xaclAZlU-zYWGA22e0uUzJnm7i5myhuWvoZ-0LkygPxKlnEDvCoA_7JO69meYxfTpXndcXxsUYd9s4T3v46e1hkqjZQayEBM6atQysh5yRNX63Uvr5VqeYVcRAgr=w2400" class = "rounded-circle d-block mx-auto" alt = "CatrionaMcDonald" width ="150" height = "150">
+							</div>
+							<div class="col-sm-8">
+								<h1 class="text-center">Triaxial asteroids as reservoirs for planetary debris around white dwarfs</h1>
+								<p style='font-size: 120%;' class="text-center"><a href="https://warwick.ac.uk/fac/sci/physics/research/astro/people/catrionamcdonald" target="blank">Catriona H. McDonald</a><sup>1,2</sup>, Dimitri Veras<sup>1,2</sup><p>
+            					<p style="font-size: 80%;" class="text-center"><sup>1</sup> Centre for Exoplanets and Habitability, University of Warwick, Coventry, CV4 7AL, UK <br> <sup>2</sup> Department of Physics, University of Warwick, Coventry, CV4 7AL, UK </p>
+							</div>
+							<div class="col-sm-2 d-flex align-items-center">
+								<img src='https://lh3.googleusercontent.com/8MK795maqKIOHlWef9NTw8UlaD1Xh_cWRlyni9sLEyEkn_cmZGvhuu3g8dcFRhJZdmsXomiMKpWxTym0CipgiOGm9F7nnfkDGaGHMrwlKrIjjUrBpMxdzKQnGnTBuH5-sRNlPcWn=w2400' class = "d-block mx-auto" alt="University of Warwick logo" width = "150" height = "150">
+							</div>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Section for the 3D moveable -->
+		<div class="row justify-content-center pt-2 mb-2">
+			<div class="col-sm">
+				<div class="card text-white bg-dark">
+					<div class="card-body">
+						<div class="row justify-content-center">
+							<div class="col-sm-7">
+								<h3 class="card-title">1. White Dwarf Pollution</h3>
+								<p>White dwarfs provide a unique opportunity to probe exoplanetary chemistry and post-main-sequence planetary system architectures. Between a quarter and half of all white dwarfs observed show evidence of heavy elements closely aligned with terrestrial planet composition in their atmospheres (<a href="https://ui.adsabs.harvard.edu/abs/2014A%26A...566A..34K/abstract" target="blank">Koester et al., 2014</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2683B/abstract" target="blank"> Bonsor et al., 2020</a>). The extreme densities of white dwarfs cause these elements to gravitationally settle on fast timescales and disappear from view. So, the material we see must have been recently accreted from a disrupting planetesimal.</p>
+								<p>Direct observations of two disrupting exo-asteroids have bolstered this idea (<a href="https://ui.adsabs.harvard.edu/abs/2015Natur.526..546V/abstract" target="blank">Vanderburg et al., 2015</a>, <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv190809839V/abstract" target='blank'>Vanderbosch et al., 2019</a>). The processes which lead to planetesimals breaking up around white dwarfs are still poorly understood and this work aims to further our understanding of this area.</p>
+								<p>Previous theoretical work has used spherical approximations. However, observations of Solar System asteroids show that they come in a variety of different shapes and sizes (as can be seen in Figure 1) but generally they can be well described by an ellipsoidal model. </p>
+							</div>
+							<div class="col-sm-5">
+								<!-- Carousel of different asteroids -->
+								<div id='asteroid_shapes' class = 'carousel slide' data-ride ='carousel'>
+              						<!-- the slide show -->
+              						<div class='carousel-inner'>
+	                					<div class='carousel-item active'>
+			                				<img src="https://lh3.googleusercontent.com/goovM3Q1q3sFTekmUEVsQ22HT_jTUbAi1MGF771cI4yJqsd3n7o9I_nD3UsZG2h8AGXvs0EtY90z3pMR_T5nu1LqlY2rmbElTGKtaftuaE5S9G6ctEsM6IpoeLFl8Od0NDjgCUgJ=w2400" alt="'Oumuamua'" width="100%" height="auto">
+			                				<div class="carousel-caption d-none d-md-block">
+    											<p>'Oumuamua</p>
+    											<p class="small"><em>Credit: ESO/ M. Kornmesser</em></p>
+  											</div>
+                						</div>
+                						<div class='carousel-item'>
+	                  						<img src="https://lh3.googleusercontent.com/OY6Dxyg_gGnJSCwEmUONUj9LgR1MLaBHDZZaJGmYRK-iKOG-DZOwd0nnwFICXlnKgV3wJEstqctKjEJmU1ZEHgMJA5yIWlqbCdhG3HMc4O6gtHqMf6vdUsbDU759-f2C0te2DUkc=w2400" alt="Kleopatra" width="100%" height="auto">
+	                  						<div class="carousel-caption d-none d-md-block">
+	                  							<p>Kleopatra</p>
+	                  							<p class="small"><em>Credit: S. Ostro et al. JPL/Arecibo Radio Telescope/NSF/NASA</em></p>
+	                  						</div>
+                						</div>
+                						<div class='carousel-item'>
+                  							<img src="https://lh3.googleusercontent.com/K-F-pEss_8vUuiIi-x2QL5Z7KhNb2J8vuPKzjswG2N3UmmvFLKm6-ox9kNI0rmOaUKxzUed-RlPKbJl1R_5FK9G345tOt8Y0SDdDp6X_FA9utaMcBTkc4AxUrBQSxKzDhTyf06wa=w2400" alt="Arrokoth" width="100%" height="auto">
+                  							<div class="carousel-caption d-none d-md-block">
+                  								<p>Arrokoth</p>
+                  								<p class="small"><em>Credit: NASA/Johns Hopkins Applied Physics Laboratory/SwRI/National Optical Astronomy Observatory</em></p>
+                  							</div>
+                						</div>
+              						</div>
+
+              						<!-- left and right controls -->
+              						<a class = "carousel-control-prev" href="#asteroid_shapes" role="button" data-slide="prev">
+                						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                						<span class="sr-only">Previous</span>
+              						</a>
+              						<a class = "carousel-control-next" href='#asteroid_shapes' role="button" data-slide='next'>
+	                					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+	                					<span class="sr-only">Next</span>
+              						</a>
+            					</div>
+          						<p class='small'><em>Figure 1: Examples of Solar System asteroids with aspherical shapes.</em></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Section for the 3D moveable -->
+		<div class="row justify-content-center pt-2 mb-2">
+			<div class="col-sm">
+				<div class="card text-white bg-dark">
+					<div class="card-body">
+						<div class="row justify-content-center">
+							<div class="col-sm-6">
+								<p><iframe class = "responsive-plot" style="border:none;" seamless="seamless" src="https://catrionamcdonald.github.io/posters/shape_models.html" width = "100%" height = "400" frameborder="0"></iframe></p>
+								<p class="small"><em>Figure 2: Interactive plots showing the six different ellipsoidal shape models used in this work. </em> </p>
+							</div>
+							<div class="col-sm-6">
+								<h3 class="card-title">2. Ellipsoidal Shape Model</h3>
+								<p>Here we move away from the typical spherical shape model that has been used in previous theoretical work and adopt an ellipsoidal shape.</p>
+
+          						<p>Ellipsoids can be described by two aspect ratios <b>b</b> and <b>c</b>, which relate the shape's different semi-axes (a, b and c in size order) and give an idea of the degree of elongation of the shape. </p>
+          						<p> <b>b</b> = b/a </p>
+          						<p> <b>c</b> = c/a </p>
+          						<p> For example, a typical asteroid could have <b>b</b> = 0.8, whereas the interstellar asteroid 'Oumuamua may have <b>b</b> = 0.1 (<a href="https://ui.adsabs.harvard.edu/abs/2017Natur.552..378M/abstract" target="blank">Meech 2017</a>)! </p>
+          						<p>We define an ellipsoid as oblate when <b>b</b>=1 and prolate when <b>b</b>=<b>c</b>. Interactive examples of all of the shape models used in this work can be seen to the left. The different models can be selected using the drop down menu. </p>
+							</div>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="row">
+			
+			<!-- Left hand column -->
+			<div class="col-sm-6">
+				<div class="card mt-2 mb-2 text-white bg-dark">
+					<div class="card-body">
+						<h3 class="card-title">3. Analytical Framework</h3>
+						<p>Following a procedure outlined in <a href="https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.1575B/abstract" target="blank">Brown et al., 2017</a> for quasi-spherical planetesimals, we developed an analytical model which considers ellipsoidal asteroids approaching a white dwarf on extremely eccentric (e &#8764; 1) orbits. The possible disruption is divided into three outcomes:</p>
+          				<ul>
+            				<li> <em>Sublimation</em> - incident starlight causes the asteroid to totally sublime</li>
+            				<li> <em>Fragmentation</em> - tidal forces overcome self-binding forces and the asteroid fragments</li>
+            				<li> <em>Impacts</em> - the asteroid impacts directly onto the surface of the white dwarf</li>
+          				</ul>
+          				<p>The process comes down to identifying two variables for any combination of white dwarf and asteroid properties.</p>
+          				<ul>
+          					<li>The <em>sublimation parameter</em> &alpha; is the minimum size for a body to survive sublimation alone down to the white dwarf's atmosphere.</li>
+          					<li>The <em>binding-size parameter</em> &beta; is the threshold size for a body to start fragmenting.</li>
+          				</ul>
+          				<p>Once these two parameters have been found, they can be run through the following to identify its ultimate destruction.</p>
+          				<p><img src="https://lh3.googleusercontent.com/e_AGxxCeE08epB0vGQfKFJx9LwiXn6oKqAM8WIJcJrH-eN6hx4GoKTlvZ6ztrIaX9MKXZlasn8v_YNjJ7wCbPklfBfs9_U1RpzVsuhzA3aDkRGsrXl82_iMy7JWTAXgt6YHktLIR=w2400" width="100%" height="auto"></p>
+          				<p class='small'><em><a href ="https://lh3.googleusercontent.com/e_AGxxCeE08epB0vGQfKFJx9LwiXn6oKqAM8WIJcJrH-eN6hx4GoKTlvZ6ztrIaX9MKXZlasn8v_YNjJ7wCbPklfBfs9_U1RpzVsuhzA3aDkRGsrXl82_iMy7JWTAXgt6YHktLIR=w2400" target='blank'>Figure 3:</a> Logical flowchart depicting how to identify how an asteroid will disrupt in our model.</em></p>
+					</div>
+				</div>
+				<div class="card mt-2 mb-2 text-white bg-dark">
+					<div class="card-body">
+						<h3 class="card-title">4. Main Belt Analogue</h3>
+						<p>An asteroid belt similar to the Solar System's main belt could survive a star's giant branch evolutionary phase and provide an ample reservoir to pollute white dwarfs. Here we construct a simplified main belt to investigate the expected debris distribution if every asteroid in the belt was randomly perturbed towards the white dwarf. The main belt is constructed with the following properties:</p>
+          				<ul>
+            				<li>100 asteroids</li>
+            				<li>Power law size distribution (n &#8764; 0.9 for a > 1km and n &#8764; 0.26 for a < 1km <a href ="https://ui.adsabs.harvard.edu/abs/2020AJ....159..148P/abstract" target='blank'>Peña et al. 2020</a>) </li>
+            				<li>Each asteroid has randomly selected aspect ratios <b>b</b> and <b>c</b></li>
+            				<li>Each asteroid has randomly selected material properties (rocky or snowy)</li>
+          				</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Right hand column -->
+			<div class="col-sm-6">
+				<div class="card mt-2 mb-2 text-white bg-dark">
+					<div class="card-body">
+						<h3 class="card-title">5. Results</h3>
+						<p>We find that utilising the triaxial model makes a significant difference to the results produced using a spherical model. The distance from the white dwarf where destruction occurs can change by orders of magnitude, and in some cases the destruction mode itself can change.</p>
+						<p>For five different white dwarf temperatures, and hence cooling ages, the main belt analogue is put through the analytical framework and the distance from the white dwarf and mode of disruption are plotted.  </p>
+          				<p><img src="https://lh3.googleusercontent.com/38fQn0YztGQYmMWQu2LWjVdWjaFO6aypQeMTqIOkWleE4OdSk8tNk4tZdj-wXNZ5wSWzv8GZ-ZvaVykgNqJVdD0dFjfdZVsEEnYydz28cjNqOXpUl6tzifMkPLd8PE4mTraAQ9S0=w2400" width="100%" height="auto"></p>
+          				<p class="small"> <em><a href ="https://lh3.googleusercontent.com/38fQn0YztGQYmMWQu2LWjVdWjaFO6aypQeMTqIOkWleE4OdSk8tNk4tZdj-wXNZ5wSWzv8GZ-ZvaVykgNqJVdD0dFjfdZVsEEnYydz28cjNqOXpUl6tzifMkPLd8PE4mTraAQ9S0=w2400" target='blank'>Figure 4:</a> results legend, showing the parameters included. Colour indicates the shape model used, the marker shape indicates how the asteroid will disrupt and the marker fill indicates the material the asteroid is made of. Dashed lines indicate the shape model is extreme.</em></p>
+						<!-- Carousel of plots -->
+						<div id='results' class = 'carousel slide' data-ride ='carousel' data-interval="10000">
+              				<!-- the slide show -->
+              				<div class='carousel-inner'>
+	                			<div class='carousel-item active'>
+			                		<img src="https://lh3.googleusercontent.com/KmwLm6tJwAFE7VZfBF1kUP38NdWych-g0fM-kqRHEIJouC1HUZRCUHfJtjVsSKi5E5upUYhrUAHY-tG6rTrto9LJ8kOhlU5IK_p0AW0aiF1k2J8GsZ0hbTy4JalxuOA_fjMh7IEt=w2400" alt="4000K white dwarf" width="100%" height="auto">
+                				</div>
+                				<div class='carousel-item'>
+	                  				<img src="https://lh3.googleusercontent.com/895aCQsp__NwbqYHT9JsiwqpzrFjkn6M9HAQ53fm5XAHs_pZnq31EeT0UStGp0ELhAz4WdK-HA5vcF2o2_k44m_kdcCZ-UIXCkWmVPaR9E1Gm6x25CixZXhGFwCqIZY2qdSajSN0=w2400" alt="6700K white dwarf" width="100%" height="auto">
+                				</div>
+                				<div class='carousel-item'>
+                  					<img src="https://lh3.googleusercontent.com/-nj2XhGZNoJnOjniyDKyq0urRUKnZyZ9ucbyaKY-56-ffRkaY7NnpJA-lQUUSEY0TB9pN7UVJSOyBNYMiux4a_G44VIpkVVFA40YOr_p2VCVjCJSjOubja2FFQ9B4LA-G37AR3mQ=w2400" alt="11000K white dwarf" width="100%" height="auto">
+                				</div>
+                				<div class='carousel-item'>
+                  					<img src="https://lh3.googleusercontent.com/muGrdJ9er2F7bQSWUcvJDmYjCEsI3rasVdaJDrnlZGU0_ZxXyvqITg8hK1SefpNbsVgZR0Ulz8s4u75JpBoSIKCTRBDZFrzKn8ynHKPkVfatm0-UdNAEpPCdKVOf0riSlfxy2WrG=w2400" alt="18200K white dwarf" width="100%" height="auto">
+                				</div>
+                				<div class='carousel-item'>
+	                  				<img src="https://lh3.googleusercontent.com/kCZcL_H3j12AVysuuIOxunUfpJrYQjdOolYoVrlPOEyK2r8zoPocebroK7sBSlAYqFnnYCZN6VuaCJRGp5O1UeBibOHXkoaCIEQv9xNVga97txh57bYMEv36oRMDKWIWt-lAP3Il=w2400" alt="30000K white dwarf" width="100%" height="auto">
+                				</div>
+              				</div>
+
+              				<!-- left and right controls -->
+              				<a class = "carousel-control-prev" href="#results" role="button" data-slide="prev">
+                				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                				<span class="sr-only">Previous</span>
+              				</a>
+              				<a class = "carousel-control-next" href='#results' role="button" data-slide='next'>
+	                			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+	                			<span class="sr-only">Next</span>
+              				</a>
+            			</div>
+            			<p class="small"> <em><a href ="https://lh3.googleusercontent.com/KmwLm6tJwAFE7VZfBF1kUP38NdWych-g0fM-kqRHEIJouC1HUZRCUHfJtjVsSKi5E5upUYhrUAHY-tG6rTrto9LJ8kOhlU5IK_p0AW0aiF1k2J8GsZ0hbTy4JalxuOA_fjMh7IEt=w2400" target='blank'>Figure 5:</a> these figures show how an asteroid's semi-major axis changes as it approaches a white dwarf. The legend is as indicated in Figure 4. The sizes of some Solar System asteroids are shown on the right hand axis.</em></p>
+            			<p>We find that all three modes of destruction occur at every cooling age. As the white dwarf cools and its radiative power decreases, sublimation plays less of a role and direct impacts are more likely. Fragmentation occurs at all times when the asteroid is above the limiting size for its material.</p>
+          				<p>For rocky asteroids, different shape models do not affect the disruption outcome. Whereas snowy asteroids with extreme shape models are more susceptible to sublimation at larger sizes than standard shape models.  </p>
+
+					</div>
+				</div>
+				<div class="card mt-2 mb-2 text-white bg-dark">
+					<div class="card-body">
+						<h3 class="card-title">6. Conclusions</h3>
+						<p>Triaxial shape models provide a more accurate model for asteroids than a spherical model. We can place constraints on where the planetary debris from a disrupted asteroid will orbit. This simple analytical formulism can be used in other studies to predict the destruction regime of specific asteroids. </p>
+          				<p>Further work on this project intends to include the effect of rotation and to follow the evolution of the fragmentation products.</p>
+          				<p style="color:#07ACAF"><b>We invite feedback and opportunities for collaboration in furthering this work.</b></p>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<!--Poster footer -->
+		<div class="row justify-content-center pt-2 mb-2">
+			<div class="col-sm">
+				<div class="card text-white bg-dark">
+					<div class="card-body">
+						<div class="row justify-content-center">
+							<div class="col-sm-4">
+								<p class="text-center">Email : catriona.mcdonald@warwick.ac.uk</p>
+							</div>
+							<div class="col-sm-4">
+								<p class="text-center">Background Image : <em>"NGC 247" NASA/ESA</em></p>
+							</div>
+							<div class="col-sm-4">
+								<p>Website : <a href="https://warwick.ac.uk/fac/sci/physics/research/astro/people/catrionamcdonald" target="blank">https://warwick.ac.uk/fac/sci/physics/research/astro/people/catrionamcdonald</a></p>
+							</div>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<!--javascript libraries -->
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
