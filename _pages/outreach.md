@@ -11,7 +11,7 @@ As a volunteer I accompany the university's inflatable planetarium to local scho
 
 **Pint of Science Volunteer**, University of Warwick, Coventry, UK (2019-2020)
 -----
-Volunteered to help organise the content for Pint of Science 2020. Was involved with choosing the presentors and organising the programme. Festival was cancelled due to covid-19.
+Volunteered to help organise the content for Pint of Science 2020. Was involved with choosing the presentors and organising the programme. The in person festival was cancelled due to Covid-19, but I acted as a moderator for the Pint of Science Live Online event* Ctrl-Alt-Del: Are We Living In A Simulation?*.
 
 **SEPnet Outreach Ambassador**, Royal Holloway, University of London, UK (2017-2019)
 ------
