@@ -15,6 +15,8 @@ Poster talk ["How the breakup of triaxial asteroids generates debris reservoirs 
 **Exoplanets 3**,Virtual Meeting (July 2020)<br/>
 Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/CatrionaMcDonald_exo3_poster.html)
 
+**MiR@W Day: The three body problem: Application to Satellites, Planets, and Stars**, University of Warwick, UK, (March 2020)
+
 **South East Exoplanet Meeting**, Royal Astronomical Society, London, UK (December 2019)
 
-**STFC Introductory Course in Astronomy for New Research Students**, Canterbury, UK (August 2019)
+**STFC Introductory Course in Astronomy for New Research Students**, University of Kent, Canterbury, UK (August 2019)
