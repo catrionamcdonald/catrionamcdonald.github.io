@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Exoplanets Demographics**, Virtual Meeting, (November 2020) <br/>
-Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/ExoDemPoster_CatrionaMcDonald.html)
+Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/ExoDemPoster_CatrionaMcDonald.pdf)
 
 **Europlanet Science Congress 2020**, Virtual Meeting, (September-October 2020)
 
