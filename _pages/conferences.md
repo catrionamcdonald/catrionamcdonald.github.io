@@ -4,6 +4,12 @@ title: "Conferences and Workshops"
 permalink: /conferences/
 author_profile: true
 ---
+**Physics Days at Warwick: Summer workshop on white dwarfs and related objects**, Virtual Meeting, (July 2021) <br/>
+SOC member
+
+**Division of Dynamical Astronomy 52**, Virtual Meeting, (May 2021)
+
+**TRiple EvolutioN and DYnamics 3**, Virtual Meeting, (March 2021)
 
 **Exoplanets Demographics**, Virtual Meeting, (November 2020) <br/>
 Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/ExoDemPoster_CatrionaMcDonald.pdf)
