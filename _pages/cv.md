@@ -20,7 +20,8 @@ Teaching experience
 
 * 2019-present: First Year Undergraduate Lab Demonstrator
   * University of Warwick, UK
-  * Assisting eight students with physics experiments, lab book keeping and report writing skills.
+  * Assisting students with physics experiments, lab book keeping and report writing skills.
+  * Adapting an astronomy experiment for hybrid virtual/in-person teaching
 
 * 2016-2017: Tutor
   * Explore Learning, Hounslow, UK
@@ -28,6 +29,9 @@ Teaching experience
   
 Publications
 ======
+* [White dwarf planetary debris dependence on physical structure distributions within asteroid belts](https://arxiv.org/abs/2107.00322)
+**C. H. McDonald** & D. Veras, 2021, accepted for publication in MNRAS
+
 * [Constraining the origin of the planetary debris surrounding ZTF J0139+5245 through rotational fission of a triaxial asteroid](https://academic.oup.com/mnras/article/492/4/5291/5721536)
 D. Veras, **C. H. McDonald**, V. Makarov, 2020, MNRAS, 492, 4, 5291-5296
 
@@ -36,7 +40,23 @@ D. Veras, P-E. Tremblay, J.J. Hermes, **C. H. McDonald**, G. M. Kennedy, F. Meru
 
 * [Linking the formation and fate of exo-Kuiper belts within Solar system analogues](https://academic.oup.com/mnras/article/493/4/5062/5775314)
 D. Veras, K. Reichert, F. Flammini Dotti, M. X. Cai, A. J. Mustill, A. Shannon, **C. H. McDonald**, S. Portegies Zwart, M. B. N. Kouwenhoven, R. Spurzem, 2020, MNRAS, 493, 4, 5062-5078
+
+Service
+======
+* NASA proposal peer review, Executive Secretary 2020
+* SOC _Physics Days at Warwick: Summer workshop on white dwarfs and related objects_, 2021
+* LOC National Astronomical Meeting, 2022
+* Committee member [Equitea](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)
   
+Outreach
+=======
+* Invited talk to the Warwick University Astronomy Society _Destroying planets around dying stars_, 2021
+* Planetarium Volunteer, University of Warwick, Coventry, UK, 2019 - present
+* Pint of Science Volunteer, University of Warwick, Coventry, UK, 2019-2020
+* SEPnet Outreach Ambassador, Royal Holloway, University of London, UK, 2017-2019
+* Ogden Trust Summer Intern, Royal Holloway, University of London, UK, 2018
+* Outreach work experience, Open University, Milton Keynes, UK (2014)
+ 
 Skills
 ======
 * Programming languages
