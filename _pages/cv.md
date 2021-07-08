@@ -41,16 +41,17 @@ D. Veras, P-E. Tremblay, J.J. Hermes, **C. H. McDonald**, G. M. Kennedy, F. Meru
 * [Linking the formation and fate of exo-Kuiper belts within Solar system analogues](https://academic.oup.com/mnras/article/493/4/5062/5775314)
 D. Veras, K. Reichert, F. Flammini Dotti, M. X. Cai, A. J. Mustill, A. Shannon, **C. H. McDonald**, S. Portegies Zwart, M. B. N. Kouwenhoven, R. Spurzem, 2020, MNRAS, 493, 4, 5062-5078
 
-Service
+Additional Experience
 ======
-* NASA proposal peer review, Executive Secretary 2020
-* SOC _Physics Days at Warwick: Summer workshop on white dwarfs and related objects_, 2021
 * LOC National Astronomical Meeting, 2022
-* Committee member [Equitea](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/)
+* SOC _Physics Days at Warwick: Summer workshop on white dwarfs and related objects_, 2021
+* NASA DART Boarders, 2021
+* NASA proposal peer review, Executive Secretary 2020
+* Committee member, [Equitea](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/), 2020 - present
   
 Outreach
 =======
-* Invited talk to the Warwick University Astronomy Society _Destroying planets around dying stars_, 2021
+* Invited talk to the Warwick University Astronomy Society, _Destroying planets around dying stars_, 2021
 * Planetarium Volunteer, University of Warwick, Coventry, UK, 2019 - present
 * Pint of Science Volunteer, University of Warwick, Coventry, UK, 2019-2020
 * SEPnet Outreach Ambassador, Royal Holloway, University of London, UK, 2017-2019
