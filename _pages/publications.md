@@ -7,7 +7,7 @@ author_profile: true
 
 [White dwarf planetary debris dependence on physical structure distributions within asteroid belts](https://arxiv.org/abs/2107.00322)
 ------
-**C. H. McDonald**, D. Veras, accepted for publication in MNRAS
+**C. H. McDonald**, D. Veras, 2021, MNRAS, 506, 3, 4031-4047
 
 [Constraining the origin of the planetary debris surrounding ZTF J0139+5245 through rotational fission of a triaxial asteroid](https://academic.oup.com/mnras/article/492/4/5291/5721536)
 ------
