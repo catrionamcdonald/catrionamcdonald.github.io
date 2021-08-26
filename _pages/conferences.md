@@ -4,6 +4,8 @@ title: "Conferences and Workshops"
 permalink: /conferences/
 author_profile: true
 ---
+**National Astronomical Meeting 2021**, Virtual Meeting, (July 2021)
+
 **Physics Days at Warwick: Summer workshop on white dwarfs and related objects**, Virtual Meeting, (July 2021) <br/>
 SOC member
 
