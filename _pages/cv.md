@@ -73,6 +73,7 @@ Skills
 * Operating Systems
   * Windows
   * Linux
+  * macOS
 * Other
   * Excellent command of written and oral English 
   * LaTeX
