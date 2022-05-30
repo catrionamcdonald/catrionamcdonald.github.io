@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 **Invited Outreach Contributions**
-University of Warwick Astronomy Society, *Destroying planets around dying stars*, March 2021
+- University of Warwick Astronomy Society, *Destroying planets around dying stars*, March 2021
+- BBC CWR invited expert to answer the question ‘What happens to the Earth when the Sun dies?’, 2021
+- BBC CWR interview about NASA's DART mission, 2021
 
 **Planetarium Volunteer**, University of Warwick, Coventry, UK (2019 - present)
 ------
