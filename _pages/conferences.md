@@ -10,7 +10,7 @@ Poster: ["Binary Asteroid Scattering Around White Dwarfs"](https://catrionamcdon
 **Division of Dynamical Astronomy 53**, Flatiron Institute, (April 2022) <br/>
 Talk: *Binary asteroid scattering around white dwarfs* 
 
-**O-MESS**, Online Seminar, (February 2022) <br/>
+**O-MESS2 VIII**, Online Seminar, (February 2022) <br/>
 Talk: ["Modelling the origins of white dwarf debris systems"](https://www.youtube.com/watch?v=sqU9pSpBmiQ&ab_channel=O-MESS)
 
 **National Astronomical Meeting 2021**, Virtual Meeting, (July 2021)
