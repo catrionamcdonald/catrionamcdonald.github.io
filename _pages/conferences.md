@@ -4,6 +4,12 @@ title: "Conferences and Workshops"
 permalink: /conferences/
 author_profile: true
 ---
+**Exoplanets VI**, Las Vegas, (May 2022) <br/>
+Poster 
+
+**Division of Dynamical Astronomy 53**, Flatiron Institute, (April 2022) <br/>
+Talk: *Binary asteroid scattering around white dwarfs* 
+
 **National Astronomical Meeting 2021**, Virtual Meeting, (July 2021)
 
 **Physics Days at Warwick: Summer workshop on white dwarfs and related objects**, Virtual Meeting, (July 2021) <br/>
