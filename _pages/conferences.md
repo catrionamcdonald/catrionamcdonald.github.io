@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "Conferences and Workshops"
+title: "Conferences, Workshops and Presentations"
 permalink: /conferences/
 author_profile: true
 ---
 **Exoplanets VI**, Las Vegas, (May 2022) <br/>
-Poster 
+Poster: ["Binary Asteroid Scattering Around White Dwarfs"](https://catrionamcdonald.github.io/files/Exo4Poster.pdf)
 
 **Division of Dynamical Astronomy 53**, Flatiron Institute, (April 2022) <br/>
 Talk: *Binary asteroid scattering around white dwarfs* 
+
+**O-MESS**, Online Seminar, (February 2022) <br/>
+Talk: ["Modelling the origins of white dwarf debris systems"](https://www.youtube.com/watch?v=sqU9pSpBmiQ&ab_channel=O-MESS)
 
 **National Astronomical Meeting 2021**, Virtual Meeting, (July 2021)
 
@@ -20,17 +23,17 @@ SOC member
 **TRiple EvolutioN and DYnamics 3**, Virtual Meeting, (March 2021)
 
 **Exoplanets Demographics**, Virtual Meeting, (November 2020) <br/>
-Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/ExoDemPoster_CatrionaMcDonald.pdf)
+Poster: ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/ExoDemPoster_CatrionaMcDonald.pdf)
 
 **Europlanet Science Congress 2020**, Virtual Meeting, (September-October 2020)
 
 **Asteroid Exploration and Exploitation - Stardust-R Global Virtual Workshop I**, Virtual Meeting, (September 2020)
 
 **Division of Dynamical Astronomy Virtual Meeting**, Virtual Meeting, (August 2020) <br/>
-Poster talk ["How the breakup of triaxial asteroids generates debris reservoirs for white dwarf pollution"](https://catrionamcdonald.github.io/files/CatrionaMcDonald_DDA20_poster.pdf)
+Poster talk: ["How the breakup of triaxial asteroids generates debris reservoirs for white dwarf pollution"](https://catrionamcdonald.github.io/files/CatrionaMcDonald_DDA20_poster.pdf)
 
 **Exoplanets 3**,Virtual Meeting (July 2020)<br/>
-Poster ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/CatrionaMcDonald_exo3_poster.html)
+Poster: ["Triaxial asteroids as reservoirs for planetary debris around white dwarfs"](https://catrionamcdonald.github.io/files/CatrionaMcDonald_exo3_poster.html)
 
 **MiR@W Day: The three body problem: Application to Satellites, Planets, and Stars**, University of Warwick, UK, (March 2020)
 
