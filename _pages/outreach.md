@@ -5,6 +5,9 @@ permalink: /outreach/
 author_profile: true
 ---
 
+**Invited Outreach Contributions**
+University of Warwick Astronomy Society, *Destroying planets around dying stars*, March 2021
+
 **Planetarium Volunteer**, University of Warwick, Coventry, UK (2019 - present)
 ------
 As a volunteer I accompany the university's inflatable planetarium to local schools and present shows to groups of various aged children. 
