@@ -11,7 +11,7 @@ Awarded Associate Fellowship of the Higher Education Academy in 2021.
 ------
 Assisting Dr. Daniel Bayliss, Dr. Grant Kennedy and Dr. Dimitri Veras in developing a new experiment for the second year labs focussing on numerical integration using the Python package Rebound.  
 
-**First Year Undergraduate Lab Demonstrator**, University of Warwick, UK (2019-present)
+**First Year Undergraduate Lab Demonstrator**, University of Warwick, UK (2019-2021)
 ------
 Work as a demonstrator for weekly lab sessions assisting eight students with various physics experiments. My work focusses on building students experimental skills alongside, lab book keeping and report writing skills. I have a particular interest in ensuring that higher education is inclusive for all and embody that in my teaching. 
 
