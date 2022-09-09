@@ -4,6 +4,12 @@ title: "Conferences, Workshops and Presentations"
 permalink: /conferences/
 author_profile: true
 ---
+**From Stardust to Extrasolar Planets: Dynamics of Exoplanetary and Solar System Bodies**, CELTA-Cortina ASI Summer School No. 14, (August 2022) <br/>
+Poster: The evolution of planetesimals in a post-main-sequence planetary system with a migrating planet
+
+**National Astronomy Meeting 2022**, University of Warwick, (July 2022) <br/>
+Talk: *Binary asteroid scattering around white dwarfs*
+
 **Exoplanets VI**, Las Vegas, (May 2022) <br/>
 Poster: ["Binary Asteroid Scattering Around White Dwarfs"](https://catrionamcdonald.github.io/files/Exo4Poster.pdf)
 
@@ -19,6 +25,8 @@ Talk: ["Modelling the origins of white dwarf debris systems"](https://www.youtub
 SOC member
 
 **Division of Dynamical Astronomy 52**, Virtual Meeting, (May 2021)
+
+**UKEXOM**, Virtual Meeting, (April 2021)
 
 **TRiple EvolutioN and DYnamics 3**, Virtual Meeting, (March 2021)
 
