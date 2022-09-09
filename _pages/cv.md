@@ -9,8 +9,9 @@ redirect_from:
 
 Education
 ======
-* MSci in Astrophysics, Royal Holloway, University of London, 2019
 * Ph.D in Astrophysics, University of Warwick, 2023 (expected)
+* MSci in Astrophysics, Royal Holloway, University of London, 2019
+
 
 Publications
 ======
@@ -28,14 +29,14 @@ D. Veras, K. Reichert, F. Flammini Dotti, M. X. Cai, A. J. Mustill, A. Shannon, 
 
 Teaching experience
 ======
-* 2020 : Second Year Lab Development
-  * University of Warwick, UK
-  * Assisting with the creation of a new computational experiment for second year students. 
-
-* 2019-present: First Year Undergraduate Lab Demonstrator
+* 2019-2021: First Year Undergraduate Lab Demonstrator
   * University of Warwick, UK
   * Assisting students with physics experiments, lab book keeping and report writing skills.
   * Adapting an astronomy experiment for hybrid virtual/in-person teaching
+  
+* 2020 : Second Year Lab Development
+  * University of Warwick, UK
+  * Assisting with the creation of a new computational experiment for second year students. 
 
 * 2016-2017: Tutor
   * Explore Learning, Hounslow, UK
@@ -44,12 +45,15 @@ Teaching experience
 
 Additional Experience
 ======
+* Development and maintenance of an online welcome guide for new postgraduate students, 2021-2022
+* Committee member, [Equitea](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/), 2020 - present
+* LOC National Astronomical Meeting and co-chair of Outreach Organising Committee, 2022
+* Host and organiser of White Dwarf Research Group meetings, 2020-2021
 * Associate Fellow of the Higher Education Academy awarded 2021
-* LOC National Astronomical Meeting, 2022
 * SOC _Physics Days at Warwick: Summer workshop on white dwarfs and related objects_, 2021
 * NASA DART Boarders, 2021
 * NASA proposal peer review, Executive Secretary, 2020
-* Committee member, [Equitea](https://warwick.ac.uk/fac/sci/physics/research/astro/seminars/equitea/), 2020 - present
+
   
 Outreach
 =======
