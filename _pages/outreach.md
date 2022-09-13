@@ -10,6 +10,11 @@ author_profile: true
 - BBC CWR invited expert to answer the question ‘What happens to the Earth when the Sun dies?’, 2021
 - BBC CWR interview about NASA's DART mission, 2021
 
+**Co-Chair of Outreach Organising Committee**, National Astronomy Meeting 2022, Warwick, (2020-2022)
+------
+With Dr. R. Nealon, devised and organised a four day outreach program including school visits, a science festival, art exhibition, streamed panel discussion and film screening with associated foreword. 
+To complete these activities we fundraised over £20,000, managed a group of over 20 volunteers and subsequently were able to reach an audience of over 1000 people. 
+
 **Planetarium Volunteer**, University of Warwick, Coventry, UK (2019 - present)
 ------
 As a volunteer I accompany the university's inflatable planetarium to local schools and present shows to groups of various aged children. 
