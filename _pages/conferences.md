@@ -5,7 +5,7 @@ permalink: /conferences/
 author_profile: true
 ---
 **From Stardust to Extrasolar Planets: Dynamics of Exoplanetary and Solar System Bodies**, CELTA-Cortina ASI Summer School No. 14, (August 2022) <br/>
-Poster: The evolution of planetesimals in a post-main-sequence planetary system with a migrating planet
+Poster: ["The evolution of planetesimals in a post-main-sequence planetary system with a migrating planet"](https://catrionamcdonald.github.io/files/CELTA_poster.pdf)
 
 **National Astronomy Meeting 2022**, University of Warwick, (July 2022) <br/>
 Talk: *Binary asteroid scattering around white dwarfs*
