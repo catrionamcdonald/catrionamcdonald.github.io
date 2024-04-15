@@ -9,6 +9,7 @@ author_profile: true
 - University of Warwick Astronomy Society, *Destroying planets around dying stars*, March 2021
 - BBC CWR invited expert to answer the question ‘What happens to the Earth when the Sun dies?’, 2021
 - BBC CWR interview about NASA's DART mission, 2021
+- Given expert comment for publications such as The Guardian and Scientific American
 
 **International Women's Day Schools Outreach**, University of Cambridge, UK (March 2024)
 ------
