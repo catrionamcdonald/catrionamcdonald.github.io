@@ -56,7 +56,7 @@ Teaching experience
 
 Additional Experience
 ======
-* Invited peer referee for MNRAS, A&A, ApJ, ACS Earth and Space Chemistry
+* Invited to peer review for MNRAS, A&A, ApJ, ACS Earth and Space Chemistry
 * NASA proposal peer review invited panellist
 * SOC, _Leverhulme Centre for Life in the Universe Annual Science Day_, 2024
 * Development and maintenance of an online welcome guide for new postgraduate students, 2021-2022
