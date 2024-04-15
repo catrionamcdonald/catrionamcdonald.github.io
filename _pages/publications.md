@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS]([)](https://ui.adsabs.harvard.edu/abs/2024arXiv240406550A/abstract)
+------
+E. Ahrer, J. V. Seidel, L. Doyle, S. Gandhi, B. Prinoth, H. M. Cegla, **C. H. McDonald**, N. Astudillo-Defru, E. Ayache, R. Nealon, D. Veras, P. J. Wheatley, D. Ehrenreich, 2024, MNRAS, in press
+
+[Binary asteroid scattering around white dwarfs](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.4009M/abstract)
+------
+**C. H. McDonald**, D. Veras, 2023, MNRAS, 520, 3, 4009-4022
+
+[Reach out, touch space](https://ui.adsabs.harvard.edu/abs/2022A%26G....63.5.21M/abstract)
+------
+T. Mehta, **C. H. McDonald**, Nealon, R,  Astronomy & Geophysics, 63, 5, 5.21-5.23
+
 [White dwarf planetary debris dependence on physical structure distributions within asteroid belts](https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.4031M/abstract)
 ------
 **C. H. McDonald**, D. Veras, 2021, MNRAS, 506, 3, 4031-4047
