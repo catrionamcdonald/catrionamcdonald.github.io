@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Catriona McDonald"
 title_separator          : "-"
 name                     : &name "Catriona McDonald (she/her)"
-description              : &description "(she/her) PhD student at the University of Warwick"
+description              : &description "Postdoc at the Institute of Astronomy, Leverhulme Centre for Life in the Universe"
 url                      : https://catrionamcdonald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "catrionamcdonald/catrionamcdonald.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Catriona McDonald"
   avatar           : "PXL_20230625_182042438_Original.jpg"
-  bio              : "PhD student at the University of Warwick."
-  location         : "University of Warwick"
+  bio              : "Postdoc at the Institute of Astronomy"
+  location         : "Institute of Astronomy, University of Cambridge"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZL4kYwYAAAAJ&hl=en"
-  email            : "catriona.mcdonald@warwick.ac.uk"
+  email            : "chm39@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
