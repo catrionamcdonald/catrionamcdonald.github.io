@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc at the Institute of Astronomy, University of Cambridge where I work with Drs Amy Bonsor, Paul Rimmer and Auriol Rae to eluciate the role comets may have played in the origins of life on Earth. I am grateful to the Leverhulme Centre for Life in the Universe for funding this research and providing an incredible collaborative interdisciplinary environment to work in. 
+I am currently a [postdoc](https://www.ast.cam.ac.uk/people/catriona.mcdonald) at the Institute of Astronomy, University of Cambridge where I work with Drs Amy Bonsor, Paul Rimmer and Auriol Rae to eluciate the role comets may have played in the origins of life on Earth. I am grateful to the Leverhulme Centre for Life in the Universe for funding this research and providing an incredible collaborative interdisciplinary environment to work in. 
 
 Previously, I was a PhD student at the Univeristy of Warwick in the UK studying post-main-sequence planetary system science under the supervision of [Dr. Dimitri Veras](https://warwick.ac.uk/fac/sci/physics/research/astro/people/veras/). My [research](https://warwick.ac.uk/fac/sci/physics/research/astro/theses/catrionamcdonald.phd.pdf) focussed on modelling the evolution and destruction of minor bodies in white dwarf planetary systems, with a particular interest in the dynamics of planetesimal systems. Below is a summary of this area of research. 
 
