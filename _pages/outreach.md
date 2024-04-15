@@ -10,6 +10,10 @@ author_profile: true
 - BBC CWR invited expert to answer the question ‘What happens to the Earth when the Sun dies?’, 2021
 - BBC CWR interview about NASA's DART mission, 2021
 
+**International Women's Day Schools Outreach**, University of Cambridge, UK (March 2024)
+------
+I was a member of the organising committee for a suite of events organised to celebrate International Women's Day. The celebration included inviting students from local underserved schools to attend the Institute of Astronomy and take part in activities designed to encourage an interest in science, a departmental event celebrating unseen achievments and a panel discussion for undergraduate students. My main contribution to this event was devising and producing resources for a new outreach activity 'A Journey through the Solar System' which aimed to get students thinking about different environments throughout the Solar System and how we design spacecraft in order to explore them. The activity was attended by 120 school students across two days. 
+
 **Co-Chair of Outreach Organising Committee**, National Astronomy Meeting 2022, Warwick, (2020-2022)
 ------
 With Dr. R. Nealon, devised and organised a four day outreach program including school visits, a science festival, art exhibition, streamed panel discussion and film screening with associated foreword. 
