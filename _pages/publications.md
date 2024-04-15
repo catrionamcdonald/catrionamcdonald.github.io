@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS]([)](https://ui.adsabs.harvard.edu/abs/2024arXiv240406550A/abstract)
+[Atmospheric characterisation and tighter constraints on the orbital misalignment of WASP-94 A b with HARPS](https://ui.adsabs.harvard.edu/abs/2024arXiv240406550A/abstract)
 ------
 E. Ahrer, J. V. Seidel, L. Doyle, S. Gandhi, B. Prinoth, H. M. Cegla, **C. H. McDonald**, N. Astudillo-Defru, E. Ayache, R. Nealon, D. Veras, P. J. Wheatley, D. Ehrenreich, 2024, MNRAS, in press
 
