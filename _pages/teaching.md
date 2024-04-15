@@ -7,6 +7,10 @@ author_profile: true
 
 Awarded Associate Fellowship of the Higher Education Academy in 2021.
 
+**Part III Examples Class Instructor**, University of Cambridge, UK (2023-2024)
+------
+I teach examples classes for the Part III (Masters level) course 'Planetary System Dynamics' for Prof. Mark Wyatt. My duties involve marking and assessing problem sheets submitted by the students. I then teach a two-hour long class working through the solutions, focussing on any particular area where the students struggled.
+
 **Second Year Undergraduate Lab Development**, University of Warwick, UK (2020)
 ------
 Assisting Dr. Daniel Bayliss, Dr. Grant Kennedy and Dr. Dimitri Veras in developing a new experiment for the second year labs focussing on numerical integration using the Python package Rebound.  
