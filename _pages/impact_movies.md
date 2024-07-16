@@ -10,6 +10,9 @@ Successful Impact
 Below is a movie of the simulated impact for a 1km diameter comet impacting at a 45 degree angle with an impact velocity of 10 km/s. In this impact ~89% of the HCN present survives to the end of the simulation.
 It is important to note that this impact velocity is below the escape velocity of the Earth and is only possible if the comet is heavily slowed during atmospheric passage, reducing the likelihood of successful delivery.
 
+<video src="https://catrionamcdonald.github.io/files/v20_a90.mov" controls="controls" style="max-width: 730px;">
+</video>
+
 https://github.com/user-attachments/assets/03d5d1e6-d214-4773-8ba1-ac4b7562527f
 
 Unsuccessful Impact 
