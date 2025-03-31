@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "HCN survival"
+title: "A Comet's Tale"
 permalink: /HCN_surv/
 author_profile: true
 ---
 
-# TEST CALCULATION v 10
-
-# HCN Survival & Mass Calculator
+# HCN Survival & Mass Delivered Calculator
 
 Enter impactor details below:
 
