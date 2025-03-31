@@ -5,7 +5,7 @@ permalink: /HCN_surv/
 author_profile: true
 ---
 
-# TEST CALCULATION v 4
+# TEST CALCULATION v 5
 
 Enter four numbers below to get the result:
 
@@ -19,4 +19,4 @@ Enter four numbers below to get the result:
 
 <p>Result: <span id="result">...</span></p>
 
-<script src="surv_calc.js"></script>
+<script src="_pages/surv_calc.js"></script>
