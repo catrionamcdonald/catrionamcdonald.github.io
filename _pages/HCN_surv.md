@@ -5,8 +5,11 @@ permalink: /HCN_surv/
 author_profile: true
 ---
 
-# TEST CALCULATION v 9
+# TEST CALCULATION v 10
 
+# HCN Survival & Mass Calculator
+
+Enter impactor details below:
 
 <form id="calc-form">
     <label>Impactor Diameter (km):</label>
@@ -15,14 +18,12 @@ author_profile: true
     <input type="number" id="velocity" placeholder="Enter velocity">
     <label>Impact Angle (degrees):</label>
     <input type="number" id="angle" placeholder="Enter angle">
-    <label>Chemistry Model:</label>
-    <select id="chemistry">
-        <option value="equil">Equilibrium</option>
-        <option value="kinetic">Kinetic</option>
-    </select>
-    <button type="button" id="calc-button">Calculate Survival</button>
+    <label>Initial HCN Concentration (% relative to water):</label>
+    <input type="number" id="initialHCN" placeholder="Enter percentage">
+    <button type="button" id="calc-button">Calculate</button>
 </form>
 
-<p>Result: <span id="result">...</span></p>
+<p>Survival Result: <span id="result">...</span></p>
+<p>Mass of HCN: <span id="massResult">...</span></p>
 
 <script src="https://catrionamcdonald.github.io/_pages/surv_calc.js"></script>
