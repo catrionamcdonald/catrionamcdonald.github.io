@@ -37,7 +37,7 @@ function calculate() {
     }
 
     // Example calculation (replace with your Python logic converted to JS)
-    let result = num1 + num2 - num3 * num4;
+    let result = num1 + num2 + num3 + num4;
 
     document.getElementById("result").innerText = result;
 }
