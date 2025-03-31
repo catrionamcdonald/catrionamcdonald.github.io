@@ -5,16 +5,22 @@ permalink: /HCN_surv/
 author_profile: true
 ---
 
-# TEST CALCULATION v 8
+# TEST CALCULATION v 9
 
-Enter four numbers below to get the result:
 
 <form id="calc-form">
-    <input type="number" id="num1" placeholder="Number 1">
-    <input type="number" id="num2" placeholder="Number 2">
-    <input type="number" id="num3" placeholder="Number 3">
-    <input type="number" id="num4" placeholder="Number 4">
-    <button type="button" id="calc-button">Calculate</button>
+    <label>Impactor Diameter (km):</label>
+    <input type="number" id="diameter" placeholder="Enter diameter">
+    <label>Impact Velocity (km/s):</label>
+    <input type="number" id="velocity" placeholder="Enter velocity">
+    <label>Impact Angle (degrees):</label>
+    <input type="number" id="angle" placeholder="Enter angle">
+    <label>Chemistry Model:</label>
+    <select id="chemistry">
+        <option value="equil">Equilibrium</option>
+        <option value="kinetic">Kinetic</option>
+    </select>
+    <button type="button" id="calc-button">Calculate Survival</button>
 </form>
 
 <p>Result: <span id="result">...</span></p>
