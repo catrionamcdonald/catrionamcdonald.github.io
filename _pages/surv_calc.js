@@ -24,23 +24,15 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-function calculateSurvival(d, v, a, chem) {
+function calculateSurvival(d, v, a) {
     let theta_rad = a * (Math.PI / 180);
     let meanT = 25.67 * Math.pow(v, 2.07);
     let scaled_meanT = meanT * Math.pow(Math.sin(theta_rad), 1.6);
     let equiv_vimp = Math.pow(scaled_meanT / 25.67, 1 / 2.07);
 
-    let A, q, v0, vmin, vmax, B, C, E;
-    if (chem === "equil") {
-        A = 99.64; q = 7.99; v0 = 7.63; vmin = 4.5; vmax = 15;
-        B = 0.97; C = 0.085; E = 5.61;
-    } else if (chem === "kinetic") {
-        A = 100.22; q = 7.53; v0 = 11.10; vmin = 5; vmax = 20;
-        B = 0.99; C = 0.068; E = 6.63;
-    } else {
-        console.error("Invalid chemistry model. Use 'equil' or 'kinetic'.");
-        return null;
-    }
+    // Equilibrium chemistry parameters
+    let A = 99.64, q = 7.99, v0 = 7.63, vmin = 4.5, vmax = 15;
+    let B = 0.97, C = 0.085, E = 5.61;
 
     let surv;
     if (equiv_vimp < vmin) {
