@@ -202,11 +202,11 @@ figure {
 }
 
 .fh5co-cover .display-tc h1 {
-  color: #fff;
+  color: #FFFFFF;
 }
 
 .fh5co-cover .display-tc h2 {
-  color: #fff;
+  color: #FFFFFF;
   font-size: 80px;
   margin-bottom: 30px;
   font-weight: 300 !important;
@@ -223,15 +223,15 @@ figure {
 }
 
 .fh5co-cover .display-tc p {
-  color: #fff;
+  color: #FFFFFF;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 7px;
 }
 
 .fh5co-cover .display-tc p span {
-  border-top: 2px solid #fff;
-  border-bottom: 2px solid #fff;
+  border-top: 2px solid #FFFFFF;
+  border-bottom: 2px solid #FFFFFF;
   padding: 5px 0px;
 }
 
