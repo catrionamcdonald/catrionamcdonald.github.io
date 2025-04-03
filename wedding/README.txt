@@ -23,6 +23,10 @@ Gifts: gift.html
   - but if you would absolutely love to give us a gift, a contribution to 
     our house/honeymoon fund would be amazing. 
 
+RSVP: RSVP.html
+  - how do I deal with the fact that not everyone will get the same invite?
+  - Evening/day guests?
+
 BELOW HERE IS THE README FROM THE INITIAL REPO
 TITLE: 
 Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
