@@ -1,17 +1,13 @@
 @font-face {
-    font-family: 'icomoon';
-    src:    url('fonts/icomoon.eot?1oniuf');
-    src:    url('fonts/icomoon.eot?1oniuf#iefix') format('embedded-opentype'),
-        url('fonts/icomoon.ttf?1oniuf') format('truetype'),
-        url('fonts/icomoon.woff?1oniuf') format('woff'),
-        url('fonts/icomoon.svg?1oniuf#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'WhiteStar';
+  src: url('../fonts/WhiteStar.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
     /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
+    font-family: 'WhiteStar' !important;
     speak: none;
     font-style: normal;
     font-weight: normal;
