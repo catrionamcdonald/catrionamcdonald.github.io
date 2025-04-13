@@ -1,11 +1,9 @@
 @font-face {
-  font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  font-family: 'WhiteStar';
+  src: url('../fonts/WhiteStar.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
-
 /* =======================================================
 *
 * 	Template Style 
@@ -403,7 +401,7 @@ figure {
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
-  font-family: 'icomoon';
+  font-family: 'WhiteStar';
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -429,7 +427,7 @@ figure {
 
 #fh5co-primary-menu > li > ul li > .sf-with-ul:after {
   border: none !important;
-  font-family: 'icomoon';
+  font-family: 'WhiteStar';
   speak: none;
   font-style: normal;
   font-weight: normal;
