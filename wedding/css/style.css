@@ -58,7 +58,7 @@ p.underoverline::after {
   position: absolute;
   left: 0;
   right: 0;
-  height: 1px;
+  height: 3px;
   background: #ccc; /* or gold, forest green, etc */
 }
 
@@ -68,7 +68,7 @@ p.underoverline::before {
 
 p.underoverline::after {
   bottom: 0;
-  border-bottom: 1px dashed #ccc; /* or dotted instead of dashed */
+  border-bottom: 3px dashed #ccc; /* or dotted instead of dashed */
   height: 0; /* override previous height */
   background: none; /* remove the solid line background */
 }
@@ -85,7 +85,7 @@ p.underline::after {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 1px;
+  height: 3px;
   background: #ccc; /* or gold/green etc */
 }
 /* =======================================================*/
