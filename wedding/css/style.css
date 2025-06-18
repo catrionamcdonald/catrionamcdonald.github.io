@@ -43,6 +43,10 @@ p, ul, ol {
   font-family: "Open Sans", Arial, sans-serif;
 }
 
+p.underoverline {
+  text-decoration: underline overline;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color: #5B6057;
   font-family: "WhiteStar", cursive;
