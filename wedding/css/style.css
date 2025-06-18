@@ -43,6 +43,9 @@ p, ul, ol {
   font-family: "Open Sans", Arial, sans-serif;
 }
 
+/* =======================================================
+Custom under/overlined text
+* ======================================================= */
 p.underoverline {
   position: relative;
   padding: 1em 0; /* space above and below the text */
@@ -65,7 +68,27 @@ p.underoverline::before {
 
 p.underoverline::after {
   bottom: 0;
+  border-bottom: 1px dashed #ccc; /* or dotted instead of dashed */
+  height: 0; /* override previous height */
+  background: none; /* remove the solid line background */
 }
+
+p.underline {
+  position: relative;
+  padding-bottom: 1.5em; /* space below the text */
+  text-align: center; /* optional */
+}
+
+p.underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 1px;
+  background: #ccc; /* or gold/green etc */
+}
+/* =======================================================*/
 
 h1, h2, h3, h4, h5, h6 {
   color: #5B6057;
