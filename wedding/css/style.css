@@ -45,7 +45,7 @@ p, ul, ol {
 
 p.underoverline {
   position: relative;
-  padding: 1.5em 0; /* space above and below the text */
+  padding: 1em 0; /* space above and below the text */
   text-align: center; /* optional, looks nice */
 }
 
