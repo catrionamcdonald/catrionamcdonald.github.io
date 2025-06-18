@@ -44,7 +44,27 @@ p, ul, ol {
 }
 
 p.underoverline {
-  text-decoration: underline overline;
+  position: relative;
+  padding: 1.5em 0; /* space above and below the text */
+  text-align: center; /* optional, looks nice */
+}
+
+p.underoverline::before,
+p.underoverline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #ccc; /* or gold, forest green, etc */
+}
+
+p.underoverline::before {
+  top: 0;
+}
+
+p.underoverline::after {
+  bottom: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
