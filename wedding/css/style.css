@@ -59,7 +59,7 @@ p.underoverline::after {
   left: 0;
   right: 0;
   height: 3px;
-  background: #003D23; /* or gold, forest green, etc */
+  background: #AB81CD; /* or gold, forest green, etc */
 }
 
 p.underoverline::before {
@@ -86,7 +86,7 @@ p.underline::after {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: #003D23; /* or gold/green etc */
+  background: #AB81CD; /* or gold/green etc */
 }
 /* =======================================================*/
 
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Custom sub title in purple */
 
 h3.subtitle {
-  color: #AB81CD
+  color: #003D23
 }
 
 
