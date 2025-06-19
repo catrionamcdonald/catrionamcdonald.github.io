@@ -59,7 +59,7 @@ p.underoverline::after {
   left: 0;
   right: 0;
   height: 3px;
-  background: #AB81CD; /* or gold, forest green, etc */
+  background: #715973; /* or gold, forest green, etc */
 }
 
 p.underoverline::before {
@@ -68,7 +68,7 @@ p.underoverline::before {
 
 p.underoverline::after {
   bottom: 0;
-  border-bottom: 3px dashed #ccc; /* or dotted instead of dashed */
+  border-bottom: 3px dashed #F1E7E4; /* or dotted instead of dashed */
   height: 0; /* override previous height */
   background: none; /* remove the solid line background */
 }
@@ -86,7 +86,7 @@ p.underline::after {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: #AB81CD; /* or gold/green etc */
+  background: #715973; /* or gold/green etc */
 }
 /* =======================================================*/
 
