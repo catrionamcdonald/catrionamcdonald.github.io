@@ -59,7 +59,7 @@ p.underoverline::after {
   left: 0;
   right: 0;
   height: 3px;
-  background: #715973; /* or gold, forest green, etc */
+  background: #AB81CD; /* purple */
 }
 
 p.underoverline::before {
@@ -86,7 +86,7 @@ p.underline::after {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: #715973; /* or gold/green etc */
+  background: #AB81CD; /* purple */
 }
 /* =======================================================*/
 
