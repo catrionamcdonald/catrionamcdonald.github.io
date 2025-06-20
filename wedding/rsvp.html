@@ -98,66 +98,78 @@
 		<!-- end:header-top -->
 
     <!-- start: RSVP form -->
-			<div id="fh5co-when-where" class="fh5co-section-gray">
+			<section id="fh5co-rsvp" class="fh5co-section-gray">
 				<div class="container">
-
-					<!-- Title -->
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 text-center heading-section animate-box">
-							<h2>Will you be joining us?</h2>
+					<div class="row animate-box">
+						<div class="col-md-8 col-md-offset-2 text-center heading-section">
+							<h2>RSVP</h2>
+							<p>Let us know if you can make it! We can’t wait to celebrate with you.</p>
 						</div>
 					</div>
-
-					<!-- form -->
-					<div class="row row-bottom-padded-md">
-						<div class="col-md-12 text-center animate-box">
-							<div class="wedding-events">
+					
+					<div class="row animate-box">
+						<div class="col-md-10 col-md-offset-1">
+							<form action="https://api.web3forms.com/submit" method="POST" class="form-horizontal">
 								
-								<form action="https://api.web3forms.com/submit" method="POST" class="p-4 rounded shadow bg-light mt-4">
-									<!-- Web3Forms Access Key -->
-									<input type="hidden" name="access_key" value="990d6150-8187-441e-bc49-9dd2e1cab633">
-									
-									<!-- Optional Redirect After Submission -->
-									<input type="hidden" name="redirect" value="https://catrionamcdonald.github.io/wedding/thankyou-redirect.html">
-									
-									<div class="form-group">
-										<label for="name">Name(s)</label>
-										<input type="text" class="form-control" name="name" id="name" placeholder="e.g. Will and Cat" required>
-									</div>
-									
-									<div class="form-group">
-										<label>Will you be attending?</label>
-										<div class="form-check">
-											<input class="form-check-input" type="radio" name="attending" id="attendingYes" value="Yes" required>
-											<label class="form-check-label" for="attendingYes">Yes</label>
-										</div>
-										<div class="form-check">
-											<input class="form-check-input" type="radio" name="attending" id="attendingNo" value="No" required>
-											<label class="form-check-label" for="attendingNo">No</label>
-										</div>
-									</div>
-									
-									<div class="form-group">
-										<label for="diet">Any dietary requirements?</label>
-										<textarea class="form-control" name="diet" id="diet" rows="2" placeholder="Optional – let us know if you have any allergies or preferences."></textarea>
-									</div>
-									
-									<div class="form-group">
-										<label for="song">Song requests for the DJ?</label>
-										<textarea class="form-control" name="song" id="song" rows="2" placeholder="Optional – what gets you on the dancefloor?"></textarea>
-									</div>
-									
-									<div class="text-center mt-4">
-										<button type="submit" class="btn btn-primary btn-lg px-4">Send RSVP</button>
-									</div>
-								</form>
+							<!-- Web3Forms Access Key -->
+								<input type="hidden" name="access_key" value="990d6150-8187-441e-bc49-9dd2e1cab633">
 								
-							</div>
-						</div>
-					</div>
+								<!-- Honeypot (anti-spam) -->
+								<input type="text" name="website" style="display:none">
+								
+								<!-- Success redirect (optional) -->
+								<input type="hidden" name="redirect" value="thankyou.html">
+								
+								<!-- Name(s) -->
+								<div class="form-group">
+									<label class="col-sm-3 control-label">Name(s)</label>
+									<div class="col-sm-9">
+										<input type="text" name="name" class="form-control" required placeholder="Your name(s)">
+									</div>
+								</div>
+								
+								<!-- Attendance -->
+								<div class="form-group">
+									<label class="col-sm-3 control-label">Will you be attending?</label>
+									<div class="col-sm-9">
+										<select name="attendance" class="form-control" required>
+											<option value="">-- Please select --</option>
+											<option value="Yes">Yes, I’ll be there!</option>
+											<option value="No">Sorry, I can’t make it</option>
+										</select>
+									</div>
+								</div>
+								
+								<!-- Dietary Requirements -->
+								<div class="form-group">
+									<label class="col-sm-3 control-label">Dietary requirements</label>
+									<div class="col-sm-9">
+										<textarea name="dietary" class="form-control" rows="3" placeholder="Let us know if you have any dietary requirements"></textarea>
+									</div>
+								</div>
+								
+								<!-- Song Request -->
+								<div class="form-group">
+									<label class="col-sm-3 control-label">Song request</label>
+									<div class="col-sm-9">
+										<input type="text" name="song" class="form-control" placeholder="Any bangers we should play?">
+									</div>
+								</div>
+								
+								<!-- Submit Button -->
+								<div class="form-group text-center">
+									<div class="col-sm-12">
+										<button type="submit" class="btn btn-primary btn-lg">Send RSVP</button>
+									</div>
+								</div>
 
-				</div>
-			</div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+		<!-- end: RSVP form-->
 
 			
 			<!-- star: footer -->
