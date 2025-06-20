@@ -98,77 +98,64 @@
 		<!-- end:header-top -->
 
     <!-- start: RSVP form -->
-			<section id="fh5co-rsvp" class="fh5co-section-gray">
-				<div class="container">
-					<div class="row animate-box">
-						<div class="col-md-8 col-md-offset-2 text-center heading-section">
-							<h2>RSVP</h2>
-							<p>Let us know if you can make it! We can’t wait to celebrate with you.</p>
-						</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+						<h2>RSVP</h2>
 					</div>
-					
-					<div class="row animate-box">
-						<div class="col-md-10 col-md-offset-1">
-							<form action="https://api.web3forms.com/submit" method="POST" class="form-horizontal">
+				</div>
+				
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="fh5co-event">
+							<form action="https://api.web3forms.com/submit" method="POST" class="rsvp-form">
 								
-							<!-- Web3Forms Access Key -->
-								<input type="hidden" name="access_key" value="990d6150-8187-441e-bc49-9dd2e1cab633">
+								<!-- REQUIRED Web3Forms Access Key -->
+								<input type="hidden" name="access_key" value="990d6150-8187-441e-bc49-9dd2e1cab63">
+								<input type="hidden" name="redirect" value="https://catrionamcdonald.github.io/wedding/thankyou-redirect.html">
 								
-								<!-- Honeypot (anti-spam) -->
-								<input type="text" name="website" style="display:none">
-								
-								<!-- Success redirect (optional) -->
-								<input type="hidden" name="redirect" value="thankyou.html">
-								
-								<!-- Name(s) -->
+								<!-- Name -->
 								<div class="form-group">
-									<label class="col-sm-3 control-label">Name(s)</label>
-									<div class="col-sm-9">
-										<input type="text" name="name" class="form-control" required placeholder="Your name(s)">
-									</div>
+									<label for="name">Your Name(s)</label>
+									<input type="text" class="form-control" id="name" name="name" required>
 								</div>
 								
 								<!-- Attendance -->
 								<div class="form-group">
-									<label class="col-sm-3 control-label">Will you be attending?</label>
-									<div class="col-sm-9">
-										<select name="attendance" class="form-control" required>
-											<option value="">-- Please select --</option>
-											<option value="Yes">Yes, I’ll be there!</option>
-											<option value="No">Sorry, I can’t make it</option>
-										</select>
+									<label>Will you be attending?</label><br>
+									<label class="radio-inline">
+										<input type="radio" name="attending" value="Yes" required> Yes
+									</label>
+									<label class="radio-inline">
+										<input type="radio" name="attending" value="No"> No
+									</label>
+								</div>
+
+								<!-- EXTRA FIELDS: Initially hidden -->
+								<div id="extra-fields" style="display:none">
+									<!-- Dietary Requirements -->
+									<div class="form-group">
+										<label for="diet">Any dietary requirements?</label>
+										<textarea class="form-control" id="diet" name="diet" rows="3" placeholder="Leave blank if none!"></textarea>
+									</div>
+									
+									<!-- Song Request -->
+									<div class="form-group">
+										<label for="song">Song request for the DJ?</label>
+										<input type="text" class="form-control" id="song" name="song" placeholder="Something to get you dancing!">
 									</div>
 								</div>
 								
-								<!-- Dietary Requirements -->
-								<div class="form-group">
-									<label class="col-sm-3 control-label">Dietary requirements</label>
-									<div class="col-sm-9">
-										<textarea name="dietary" class="form-control" rows="3" placeholder="Let us know if you have any dietary requirements"></textarea>
-									</div>
-								</div>
-								
-								<!-- Song Request -->
-								<div class="form-group">
-									<label class="col-sm-3 control-label">Song request</label>
-									<div class="col-sm-9">
-										<input type="text" name="song" class="form-control" placeholder="Any bangers we should play?">
-									</div>
-								</div>
-								
-								<!-- Submit Button -->
+								<!-- Submit -->
 								<div class="form-group text-center">
-									<div class="col-sm-12">
-										<button type="submit" class="btn btn-primary btn-lg">Send RSVP</button>
-									</div>
+									<button type="submit" class="btn btn-primary btn-md">Send RSVP</button>
 								</div>
-
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
-
+								
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
 		<!-- end: RSVP form-->
 
 			
@@ -192,5 +179,27 @@
 		</div>
 		<!-- END fh5co-wrapper -->
 		<script src="dist/scripts.min.js"></script>
+		<!-- In the <head> or bottom of your page -->
+		<script>
+			document.addEventListener("DOMContentLoaded", function () {
+				const attendingRadios = document.querySelectorAll('input[name="attending"]');
+				const extraFields = document.getElementById('extra-fields');
+				
+				function toggleExtraFields() {
+					const attendingYes = document.querySelector('input[name="attending"]:checked');
+					if (attendingYes && attendingYes.value === "Yes") {
+						extraFields.style.display = 'block';
+					} else {
+						extraFields.style.display = 'none';
+					}
+				}
+				
+				attendingRadios.forEach(radio => {
+					radio.addEventListener('change', toggleExtraFields);
+				});
+				toggleExtraFields(); // initial check
+			});
+		</script>
+
 	</body>
 </html>
