@@ -142,7 +142,7 @@
 									<!-- Song Request -->
 									<div class="form-group">
 										<label for="song">Song request for the DJ?</label>
-										<input type="text" class="form-control" id="song" name="song" placeholder="Something to get you dancing!">
+										<input type="text" class="form-control" id="song" name="song" placeholder="Something to get you dancing!" required>
 									</div>
 								</div>
 								
@@ -184,22 +184,30 @@
 			document.addEventListener("DOMContentLoaded", function () {
 				const attendingRadios = document.querySelectorAll('input[name="attending"]');
 				const extraFields = document.getElementById('extra-fields');
+				const dietInput = document.getElementById('diet');
+				const songInput = document.getElementById('song');
 				
 				function toggleExtraFields() {
 					const attendingYes = document.querySelector('input[name="attending"]:checked');
-					if (attendingYes && attendingYes.value === "Yes") {
-						extraFields.style.display = 'block';
-					} else {
-						extraFields.style.display = 'none';
-					}
+					const isYes = attendingYes && attendingYes.value === "Yes";
+					
+					extraFields.style.display = isYes ? 'block' : 'none';
+					
+					// Enable/disable the inputs
+					dietInput.disabled = !isYes;
+					songInput.disabled = !isYes;
+					// Optional: Only mark required if attending
+					songInput.required = isYes;
 				}
 				
 				attendingRadios.forEach(radio => {
 					radio.addEventListener('change', toggleExtraFields);
 				});
-				toggleExtraFields(); // initial check
+				
+				toggleExtraFields(); // Initial run
 			});
 		</script>
+
 
 	</body>
 </html>
