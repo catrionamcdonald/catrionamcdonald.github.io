@@ -44,6 +44,16 @@ p, ul, ol {
 }
 
 /* =======================================================
+Custom heart icon
+* ======================================================= */
+.heart-icon {
+  font-size: 48px;
+  color: #003D23; /* Bootstrap's 'danger' red — tweak if you like */
+  display: inline-block;
+  line-height: 1;
+}
+
+/* =======================================================
 Custom under/overlined text
 * ======================================================= */
 p.underoverline {
